@@ -1,1 +1,1 @@
-ns
+# Informacion GIT
