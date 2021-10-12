@@ -1,14 +1,36 @@
 # Comandos
 
-- git init
-- git config - global user.name 
-- git add .
+# Crear Carpetas 
+- Linux
 
-- git status 
-- git add ejercicio.txt
+mkdir
 
-- git commit -m "commit"
-- git status
-- git remote add origin
+-  MS-DOS
 
-- git push origin
+md 
+
+# Moverse por carpetas
+cd
+
+# Borrar directorios
+- Linux
+
+rmdir
+
+- MS-DOS
+
+rd
+
+# Borrar Archivos 
+- Linux
+
+rm
+
+# Mover y copiar archivos
+- Linux
+
+mv o move, cp
+
+- MS-DOS
+
+copy, move
